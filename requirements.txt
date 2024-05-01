@@ -8,4 +8,4 @@ libmagic==1.0
 python-magic==0.4.27
 OpenAI==0.28.0
 selenium==4.20.0
-python-magic-bin
+python-magic-bin==0.4.14
