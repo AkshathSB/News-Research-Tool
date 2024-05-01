@@ -16,7 +16,7 @@ st.title("News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 
 urls = []
-for i in range(3):
+for i in range(1):
     url = st.sidebar.text_input(f"URL {i+1}")
     urls.append(url)
 
